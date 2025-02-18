@@ -12,9 +12,5 @@ public class Test {
 		System.out.println("Bye this is developer 2");
 	}
 	
-	public static void sayHi() {
-		System.out.println("Hi this is developer 1");
-	}
-	
 
 }
