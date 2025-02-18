@@ -6,6 +6,7 @@ public class Test {
 		
 		System.out.println("I am manager");
 		System.out.println("in master");
+		Bye();
 	}
 	
 	public static void sayBye() {
